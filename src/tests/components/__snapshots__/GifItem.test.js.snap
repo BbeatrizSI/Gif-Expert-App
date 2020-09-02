@@ -5,8 +5,12 @@ exports[`Pruebas en <GifItem /> debe de mostrar el componente correctamente 1`] 
   className="card animate__animated animate__fadeIn"
 >
   <img
+    alt="Un título"
     className="card__image"
+    src="https://localhost/algo.jpg"
   />
-  <p />
+  <p>
+    Un título
+  </p>
 </div>
 `;
