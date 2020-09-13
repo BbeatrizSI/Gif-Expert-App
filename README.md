@@ -1,3 +1,9 @@
+A simple tool App to search Gifs from Giphy API.
+
+Enjoy!!!
+
+------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
