@@ -1,4 +1,4 @@
-A simple tool App to search Gifs from Giphy API.
+## A simple tool App to search Gifs from Giphy API.
 
 Enjoy!!!
 
